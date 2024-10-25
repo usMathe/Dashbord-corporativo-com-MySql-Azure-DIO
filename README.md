@@ -6,7 +6,7 @@ O objetivo era a criação de um painel no Power BI integrado a uma base de dado
 
 1. **Criação de Instância MySQL no Azure:**
    - Uma instância do banco de dados MySQL foi provisionada na Azure, permitindo o armazenamento e consulta da base de dados da empresa.
-
+![Dashboard da Empresa](imagem/bd-azure.png)
 2. **Criação do Banco de Dados:**
    - O banco foi criado com dados disponíveis no GitHub e o banco de dados foi integrado ao Power BI, possibilitando a visualização e manipulação dos dados em relatórios interativos.
 
